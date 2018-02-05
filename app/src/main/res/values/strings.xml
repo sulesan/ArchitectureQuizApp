@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Architecture Quiz App</string>
+
+    <!-- This is for the header -->
+    <string name="header">Test your knowledge about the world architecture!</string>
+
+
+    <!-- QUESTIONS -->
+    <!-- This is for the first question -->
+    <string name="q1">1. What is the name of the building below designed by Le Corbusier?</string>
+
+    <!-- This is for the second question -->
+    <string name="q2">2. What is the name of the house below designed by Mies van der Rohe?</string>
+
+    <!-- This is for the third question -->
+    <string name="q3">3. Who founded the School of Bauhaus in 1919?</string>
+
+    <!-- This is for the forth question -->
+    <string name="q4">4. Who designed the iconic pyramid of the Louvre Museum?</string>
+
+    <!-- This is for the fifth question -->
+    <string name="q5">5. What is the name of the skyscraper, by Santiago Calatrava, that rotates a full 90 degrees along nine pentagonal sections?</string>
+
+
+    <!-- Answers for the first question -->
+    <!-- This is for the first answer-->
+    <string name="q1_a1">Vanna Venturi House</string>
+
+    <!-- This is for the second answer-->
+    <string name="q1_a2">Villa Tugendhat</string>
+
+    <!-- This is for the third answer-->
+    <string name="q1_a3">Villa Savoye</string>
+
+    <!-- This is for the first answer-->
+    <string name="q1_a4">Villa Malaparte</string>
+
+
+    <!-- Answers for the second question -->
+    <!-- This is for the first answer-->
+    <string name="q2_a1">Farnsworth House</string>
+
+    <!-- This is for the second answer-->
+    <string name="q2_a2">Glass House</string>
+
+    <!-- This is for the third answer-->
+    <string name="q2_a3">Villa Roche</string>
+
+    <!-- This is for the first answer-->
+    <string name="q2_a4">Villa Mairea</string>
+
+
+    <!-- Answers for the third question -->
+    <!-- This is for the first answer-->
+    <string name="q3_a1">Frank Lloyd Wright</string>
+
+    <!-- This is for the second answer-->
+    <string name="q3_a2">Ludwig Mies van der Rohe</string>
+
+    <!-- This is for the third answer-->
+    <string name="q3_a3">Charles-Édouard Jeanneret</string>
+
+    <!-- This is for the first answer-->
+    <string name="q3_a4">Walter Gropius</string>
+
+
+    <!-- Answers for the forth question -->
+    <!-- This is for the first answer-->
+    <string name="q4_a1">I. M. Pei</string>
+
+    <!-- This is for the second answer-->
+    <string name="q4_a2">Oscar Niemeyer</string>
+
+    <!-- This is for the third answer-->
+    <string name="q4_a3">Jean Nouvel</string>
+
+    <!-- This is for the first answer-->
+    <string name="q4_a4">Renzo Piano</string>
+
+
+    <!-- Answers for the fifth question -->
+    <!-- This is for the first answer-->
+    <string name="q5_a1">Dancing House</string>
+
+    <!-- This is for the second answer-->
+    <string name="q5_a2">Falling Water House</string>
+
+    <!-- This is for the third answer-->
+    <string name="q5_a3">The Gherkin</string>
+
+    <!-- This is for the first answer-->
+    <string name="q5_a4">Turning Torso</string>
+
+
+    <!-- This is for the show result button-->
+    <string name="point">SHOW RESULTS!</string>
+
+    <!-- This is for the send email button-->
+    <string name="reset">RESET QUIZ</string>
+
+
+
+
+</resources>
